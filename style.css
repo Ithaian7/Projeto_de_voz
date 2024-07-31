@@ -93,7 +93,7 @@ button {
     }
   main h1{
     text-align: center;
-      gap: 5px;
+    margin: 15px;
     
   }
 }
