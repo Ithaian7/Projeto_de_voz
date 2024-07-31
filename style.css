@@ -68,7 +68,7 @@ button {
 
 }
 
-@media (max-width: 432px) {
+@media (max-width: 420px) {
     main textarea, .row {
         width: 90%;
     }
@@ -83,10 +83,20 @@ button {
         gap: 10px;
     }
 
-    select, button {
+    select  {
         width: 100%;
     }
+    button{
+        width: 50%;
+        margin: -15px;
+        
+    }
+  main h1{
+    text-align: center;
+    
+  }
 }
+
 
 
 
