@@ -88,12 +88,13 @@ button {
     }
     button{
         width: 50%;
+        margin: 10px;
         
         
     }
   main h1{
     text-align: center;
-    margin: 15px;
+    
     
   }
 }
