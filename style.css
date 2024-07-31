@@ -68,7 +68,7 @@ button {
 
 }
 
-@media (max-width: 420px) {
+@media (max-width: 432px) {
     main textarea, .row {
         width: 90%;
     }
